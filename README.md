@@ -16,9 +16,9 @@ Skin :
 ---
 
 Mapping
-- [Import you own 3D Model]()
+- [Import you own 3D Model](Mapping/Import%20you%20own%203D%20Model.md)
 
 ---
 
 Scripting
-- [ManiaScript]()
+- [ManiaScript](Scripting/ManiaScript.md)
