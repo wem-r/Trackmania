@@ -22,3 +22,8 @@ Mapping
 
 Scripting
 - [ManiaScript](Scripting/ManiaScript.md)
+
+---
+
+Tips'n Tricks
+- 
