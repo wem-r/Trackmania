@@ -25,14 +25,28 @@ Scripting
 
 ---
 
-Tips'n Tricks
-- 
-
----
-
 Usefull links
 - Maniaplanet : [Documentation](https://doc.maniaplanet.com/)  /  [Forum](https://forum.maniaplanet.com/index.php)  /  [Maniastars](https://www.maniaplanet.com/account/maniastars)  /  [Retrieve validation code](https://www.maniaplanet.com/account/validation-code)
 - [ManiaExchange](https://tm.mania-exchange.com/)
 - [Maniapark](http://www.maniapark.com)
 - [PyPlanet Documentation](https://pypla.net/en/latest/)
-- 
+- [Dedimania](http://dedimania.net/tm2stats/?do=stat)
+- [OpenPlanet](https://openplanet.nl/)
+
+---
+
+Tips'n Tricks
+
+- Direct url to server : `maniaplanet://#join=SERVERLOGIN` or `maniaplanet://#join=droppie_lolmaps@TMStadium@nadeo`
+
+---
+
+In-game
+- [Text formatting](https://doc.maniaplanet.com/client/text-formatting)
+
+
+
+
+
+
+
