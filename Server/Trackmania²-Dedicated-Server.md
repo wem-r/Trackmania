@@ -67,7 +67,7 @@ Under `<server_options>`, change the `name` and `max_players`
 
 If you want to give your server a nice looking name with some colors, you need put a color code before each letter or words
 
-<p align="center"><img src="img/Colorname.jpg)
+<p align="center"><img src="img/Colorname.jpg)"></p>
 
 Exemple (remove the space between the codes and letters): \
 `$F00 Wemy. $F80 n $FA0 i $FC0 n $FD0 j $FF0 a` \
@@ -329,9 +329,9 @@ Then to run the server simple execute the script.
 ./ServerStartUp.sh
 ```
 
-<p align="center"><img src="img/20200829150847_1.jpg)
+<p align="center"><img src="img/20200829150847_1.jpg)"></p>
 
-<p align="center"><img src="img/20200829150910_1.jpg)
+<p align="center"><img src="img/20200829150910_1.jpg)"></p>
 
 It’s Working, Good \
 I Can stop it with a simple `Ctrl + C`
