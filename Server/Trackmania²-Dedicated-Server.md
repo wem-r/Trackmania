@@ -1,5 +1,3 @@
-Back to the [readme](https://github.com/wem-r/Trackmania)
-
 ![](img/tm2-dedicated-server.png)
 
 # How to setup a Dedicated server for Trackmania² Stadium on Debian 9 and a server controller ([Pyplanet](https://pypla.net/en/latest/) or [uaseco](https://www.uaseco.org/))
