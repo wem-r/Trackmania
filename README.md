@@ -5,7 +5,7 @@
 <br> 
 
 Server :
-- [TM² Dedicated Server on Debian 9 + pyplanet or uaseco](https://ais.wemy.ninja/Trackmania%C2%B2-Dedicated-Server/)
+- [TM² Dedicated Server on Debian 9 + pyplanet or uaseco](Server/Trackmania²-Dedicated-Server.md)
 
 ---
 
