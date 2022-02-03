@@ -1,4 +1,4 @@
-Back to the [readme](../)
+Back to the [readme](https://github.com/wem-r/Trackmania)
 
 ![](img/tm2-dedicated-server.png)
 
