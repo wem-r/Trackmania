@@ -11,7 +11,7 @@ Server :
 
 Skin :
 - [Make you own 2D Skin](Skin/Make%20you%20own%202D%20Skin.md)
-- [Make you own 3D Model](Skin/Make you own 3D Model.md)
+- [Make you own 3D Model](Skin/Make%20you%20own%203D%20Model.md)
 
 ---
 
