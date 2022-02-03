@@ -27,3 +27,12 @@ Scripting
 
 Tips'n Tricks
 - 
+
+---
+
+Usefull links
+- Maniaplanet : [Documentation](https://doc.maniaplanet.com/)  /  [Forum](https://forum.maniaplanet.com/index.php)  /  [Maniastars](https://www.maniaplanet.com/account/maniastars)  /  [Retrieve validation code](https://www.maniaplanet.com/account/validation-code)
+- [ManiaExchange](https://tm.mania-exchange.com/)
+- [Maniapark](http://www.maniapark.com)
+- [PyPlanet Documentation](https://pypla.net/en/latest/)
+- 
