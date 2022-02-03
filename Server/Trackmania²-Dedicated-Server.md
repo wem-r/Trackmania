@@ -1,4 +1,4 @@
-![](img/tm2-dedicated-server.png)
+<p align="center"><img src="img/tm2-dedicated-server.png"></p>
 
 # How to setup a Dedicated server for Trackmania² Stadium on Debian 9 and a server controller ([Pyplanet](https://pypla.net/en/latest/) or [uaseco](https://www.uaseco.org/))
 
@@ -40,7 +40,7 @@ Before editing the file, head over to your maniaplanet account and create a dedi
 
 Choose a `Login`, `Password`, `Zone` Then `Create`
 
-![](img/PrtScr-capture-3.png)
+<p align="center"><img src="img/PrtScr-capture-3.png"></p>
 
 Now edit the dedicates dedicated_cfg
 
@@ -52,22 +52,22 @@ nano dedicated_cfg.txt
 
 Under `<authorization_levels>`, change the passwords for `SuperAdmin`, `Admin`, and `User`
 
-![](img/PrtScr-capture_2-3.png)
+<p align="center"><img src="img/PrtScr-capture_2-3.png"></p>
 
 Under `<masterserver_account>`, enter the login and password of the server account previously created. \
-If you want to enable Planets transactions on your server, fill in the `<validation_key>`. \
+If you want to enable Planets transactions on your server, fill in the `<validation_key>`. \
 > If you don’t remember it, you can retrieve or get a new one here \
 > [https://www.maniaplanet.com/account/validation-code](https://www.maniaplanet.com/account/validation-code)
 
-![](img/PrtScr-capture_3-1.png)
+<p align="center"><img src="img/PrtScr-capture_3-1.png"></p>
 
 Under `<server_options>`, change the `name` and `max_players`
 
-![](img/PrtScr-capture-4.png)
+<p align="center"><img src="img/PrtScr-capture-4.png"></p>
 
 If you want to give your server a nice looking name with some colors, you need put a color code before each letter or words
 
-![](img/Colorname.jpg)
+<p align="center"><img src="img/Colorname.jpg)
 
 Exemple (remove the space between the codes and letters): \
 `$F00 Wemy. $F80 n $FA0 i $FC0 n $FD0 j $FF0 a` \
@@ -82,7 +82,7 @@ It's really easy to use
 
 Under `<system_config>`, change the `title` to `TMStadium`
 
-![](img/PrtScr-capture_2-4.png)
+<p align="center"><img src="img/PrtScr-capture_2-4.png"></p>
 
 Save and Quit.
 
@@ -296,7 +296,7 @@ At the end, just before `</playlist>`, edit or add for each track this line:
 
 exemple
 
-![Like this](PrtScr-capture_3-2.png)
+![Like this](PrtScr-capture_3-2.png"></p>
 
 ---
 
@@ -329,9 +329,9 @@ Then to run the server simple execute the script.
 ./ServerStartUp.sh
 ```
 
-![](img/20200829150847_1.jpg)
+<p align="center"><img src="img/20200829150847_1.jpg)
 
-![](img/20200829150910_1.jpg)
+<p align="center"><img src="img/20200829150910_1.jpg)
 
 It’s Working, Good \
 I Can stop it with a simple `Ctrl + C`
@@ -394,7 +394,7 @@ nano /etc/php/7.2/cli/php.ini -l
 
 `openssl.cafile=/etc/php/7.2/cacert.pem`
 
-![](img/PrtScr-capture_4-4.png)
+<p align="center"><img src="img/PrtScr-capture_4-4.png"></p>
 
 installing MySQL (as `root`)
 
@@ -437,23 +437,23 @@ editing UASECO.xml
 
 Under `<dedicated_server>`, change the `SuperAdmin` password (the same as the in `dedicated_cfg`)
 
-![](img/PrtScr-capture-5.png)
+<p align="center"><img src="img/PrtScr-capture-5.png"></p>
 
 Under `<masterlogin>`, change the login to your real TM account login (not the server login)
 
-![](img/PrtScr-capture_2-5.png)
+<p align="center"><img src="img/PrtScr-capture_2-5.png"></p>
 
 Under `<dbms>`, change the login, password and database to what you choosed when creating the MySQL DB.
 
-![](img/PrtScr-capture_3-4.png)
+<p align="center"><img src="img/PrtScr-capture_3-4.png"></p>
 
 under `<dedicated_installation>`, change the path to your server
 
-![](img/PrtScr-capture-6.png)
+<p align="center"><img src="img/PrtScr-capture-6.png"></p>
 
 change your `<admin_contatc>`
 
-![](img/PrtScr-capture_3-5.png)
+<p align="center"><img src="img/PrtScr-capture_3-5.png"></p>
 
 Editing `dedimania.xml`
 
@@ -461,19 +461,19 @@ You need a dedimaniaCode first, so go to http://dedimania.net/tm2stats/?do=regis
 
 and `Connect on ManiaPlanet - MP4`
 
-![](img/PrtScr-capture-7.png)
+<p align="center"><img src="img/PrtScr-capture-7.png"></p>
 
 then, `Register your dedicated servers`
 
-![](img/PrtScr-capture_2-6.png)
+<p align="center"><img src="img/PrtScr-capture_2-6.png"></p>
 
 and `DedimaniaCode`
 
-![](img/PrtScr-capture_3-6.png)
+<p align="center"><img src="img/PrtScr-capture_3-6.png"></p>
 
 you’ll get a Server Account code
 
-![](img/PrtScr-capture_4-2.png)
+<p align="center"><img src="img/PrtScr-capture_4-2.png"></p>
 
 `dedimania.xml`
 
@@ -483,7 +483,7 @@ nano /home/tm/uaseco/config/dedimania.xml
 
 under `<masterserver_account>`, chang the login and code you just got
 
-![](img/PrtScr-capture-8.png)
+<p align="center"><img src="img/PrtScr-capture-8.png"></p>
 
 editing `mania_karma.xml`
 
@@ -491,9 +491,9 @@ editing `mania_karma.xml`
 nano /home/tm/uaseco/config/mania_karma.xml
 ```
 
-under `<nation>`, replace `YOUR_NATION` this with a **ISO 3166 ALPHA-3** string which represents your nation, see a [full list at WikiPedia](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) at the row **Alpha-3**.
+under `<nation>`, replace `YOUR_NATION` this with a **ISO 3166 ALPHA-3** string which represents your nation, see a [full list at WikiPedia](http://en.wikipedia.org/wiki/ISO_3166-1#Officially_assigned_code_elements) at the row **Alpha-3**.
 
-![](img/PrtScr-capture_2-7.png)
+<p align="center"><img src="img/PrtScr-capture_2-7.png"></p>
 
 ```bash
 nano /home/tm/uaseco/newinstall/uaseco.sh
@@ -505,11 +505,11 @@ editing `newinstall\uaseco.sh` to change `/home/tm2/uaseco` to the path of your 
 nano /home/tm/uaseco/newinstall/webrequest.sh
 ```
 
-![](img/PrtScr-capture_2-9.png)
+<p align="center"><img src="img/PrtScr-capture_2-9.png"></p>
 
 editing `newinstall/webrequest.sh` to do the same thing
 
-![](img/PrtScr-capture_3-8.png)
+<p align="center"><img src="img/PrtScr-capture_3-8.png"></p>
 
 Change of rights
 
