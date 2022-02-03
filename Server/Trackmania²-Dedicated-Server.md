@@ -42,7 +42,7 @@ Choose a `Login`, `Password`, `Zone` Then `Create`
 
 <p align="center"><img src="img/PrtScr-capture-3.png"></p>
 
-Now edit the dedicates dedicated_cfg
+Now edit the `dedicated_cfg`
 
 ```bash
 cd /home/tm/TM2Server/UserData/Config
@@ -56,7 +56,7 @@ Under `<authorization_levels>`, change the passwords for `SuperAdmin`, `Admin`, 
 
 Under `<masterserver_account>`, enter the login and password of the server account previously created. \
 If you want to enable Planets transactions on your server, fill in the `<validation_key>`. \
-> If you don’t remember it, you can retrieve or get a new one here \
+> If you don’t remember it, you can retrieve or get a new one here (you will need you game key)\
 > [https://www.maniaplanet.com/account/validation-code](https://www.maniaplanet.com/account/validation-code)
 
 <p align="center"><img src="img/PrtScr-capture_3-1.png"></p>
@@ -67,7 +67,7 @@ Under `<server_options>`, change the `name` and `max_players`
 
 If you want to give your server a nice looking name with some colors, you need put a color code before each letter or words
 
-<p align="center"><img src="img/Colorname.jpg)"></p>
+<p align="center"><img src="img/Colorname.jpg"></p>
 
 Exemple (remove the space between the codes and letters): \
 `$F00 Wemy. $F80 n $FA0 i $FC0 n $FD0 j $FF0 a` \
