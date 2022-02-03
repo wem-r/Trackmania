@@ -3,6 +3,8 @@
 
 # How to setup a Dedicated server for Trackmania² Stadium on Debian 9 and a server controller ([Pyplanet](https://pypla.net/en/latest/) or [uaseco](https://www.uaseco.org/))
 
+This page is also available on my blog : https://ais.wemy.ninja/Trackmania²-Dedicated-Server/
+
 ---
 
 Skip directly to [Uaseco](#UASECO) \
