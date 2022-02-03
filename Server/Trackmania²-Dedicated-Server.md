@@ -1,4 +1,4 @@
-Back to the [readme](../README.md)
+Back to the [readme](../)
 
 ![](img/tm2-dedicated-server.png)
 
