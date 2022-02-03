@@ -72,14 +72,15 @@ If you want to give your server a nice looking name with some colors, you need p
 Exemple (remove the space between the codes and letters): \
 `$F00 Wemy. $F80 n $FA0 i $FC0 n $FD0 j $FF0 a` \
 will give : 
-<span style="color:#ff0d11">W</span><span style="color:#ff373a">e</span><span style="color:#ff0307">m</span><span style="color:#ff1a1e">y</span><span style="color:#ff5300">.</span><span style="color:#ff5300">n</span><span style="color:#ff8a00">i</span><span style="color:#ffd000">n</span><span style="color:#ffe500">j</span><span style="color:#ffff51">a</span>
+<span style="color:#ff0d11">W</span><span style="color:#ff373a">e</span><span style="color:#ff0307">m</span><span style="color:#ff1a1e">y</span><span style="color:#ff5300">.</span><span style="color:#ff5300">n</span><span style="color:#ff8a00">i</span><span style="color:#ffd000">n</span><span style="color:#ffe500">j</span><span style="color:#ffff51">a</span> (github doesn't show the colors)
 
-Or if you don't want to do it manually, you can use on of the awsome manialink directly ingame: \
-Top left corner > compass > search : `nickedit` \
-It's really easy to use
+Or if you don't want to do it manually, you can use one easy to use manialink directly ingame:
+
+Top left corner, click on the compass and search : `nickedit` \
 
 <br>
 
+Back to the dedicated_cfg \
 Under `<system_config>`, change the `title` to `TMStadium`
 
 <p align="center"><img src="img/PrtScr-capture_2-4.png"></p>
@@ -110,7 +111,7 @@ Here what the final file looks like:
         <masterserver_account>
                 <login>pgnaim_S</login>
                 <password>********</password>
-                <validation_key>JAXUS</validation_key>
+                <validation_key>*****</validation_key>
         </masterserver_account>
 
         <server_options>
@@ -210,7 +211,7 @@ cd /home/tm/TM2Server
 ./ManiaPlanetServer
 ```
 
-Then **`Ctrl + C`** to stop the server
+Then <kbd>Ctrl + C</kbd> to stop the server
 
 Go the the config helper page to generate the MatchSettings \
 https://www.maniaplanet.com/account/dedicated-servers/helper
@@ -296,7 +297,7 @@ At the end, just before `</playlist>`, edit or add for each track this line:
 
 exemple
 
-![Like this](PrtScr-capture_3-2.png"></p>
+<p align="center"><img src="img/PrtScr-capture_3-2.png"></p>
 
 ---
 
@@ -329,14 +330,14 @@ Then to run the server simple execute the script.
 ./ServerStartUp.sh
 ```
 
-<p align="center"><img src="img/20200829150847_1.jpg)"></p>
+<p align="center"><img src="img/20200829150847_1.jpg"></p>
 
-<p align="center"><img src="img/20200829150910_1.jpg)"></p>
+<p align="center"><img src="img/20200829150910_1.jpg"></p>
 
 It’s Working, Good \
-I Can stop it with a simple `Ctrl + C`
+I Can stop it with a simple <kbd>Ctrl + C</kbd>
 
-> The script will launch the server in the foreground (fg), So ff you want to continue using the system for something else, like launching a server controller, you need to put it in the background (bg) \
+> The script will launch the server in the foreground (fg), So if you want to continue using the system for something else, like launching a server controller, you need to put it in the background (bg) \
 >```bash
 >./ServerStartUp.sh &
 >```
@@ -439,7 +440,7 @@ Under `<dedicated_server>`, change the `SuperAdmin` password (the same as the in
 
 <p align="center"><img src="img/PrtScr-capture-5.png"></p>
 
-Under `<masterlogin>`, change the login to your real TM account login (not the server login)
+Under `<masteradmins>`, change the login to your real TM account login (not the server login)
 
 <p align="center"><img src="img/PrtScr-capture_2-5.png"></p>
 
@@ -454,6 +455,8 @@ under `<dedicated_installation>`, change the path to your server
 change your `<admin_contatc>`
 
 <p align="center"><img src="img/PrtScr-capture_3-5.png"></p>
+
+<br>
 
 Editing `dedimania.xml`
 
