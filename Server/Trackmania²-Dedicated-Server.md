@@ -359,7 +359,7 @@ rm -f ListCallbacks_2011-08-01.html ListCallbacks_2012-06-19.html ListCallbacks_
 
 # UASECO
 
-Skip to [PyPlanet](#PyPlanet)
+If you are not interested, you can skip to [PyPlanet](#PyPlanet)
 
 Downloading Uaseco
 
