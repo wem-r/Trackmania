@@ -37,7 +37,9 @@
 
 ## Tips'n Tricks
 
-- Direct url to server : `maniaplanet://#join=SERVERLOGIN` <br> or `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
+- Direct url to server : 
+    - `maniaplanet://#join=SERVERLOGIN` or 
+    - `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
 
 ---
 
@@ -72,13 +74,13 @@
   - The first character is for the red colour pallet, 2nd is for green and 3rd for blue.
   
   Exemple: `$F00Wemy.$F80n$FA0i$FC0n$FD0j$FF0a` \
-will give : 
+  will give : 
     
-<p align="center"><img src="Server/img/colors.svg"></p>
+  <p align="center"><img src="Server/img/colors.svg"></p>
   
-  Here's a few exemple :
+  Here's a few exemples of color core :
   
-  ![](https://doc.maniaplanet.com/user/pages/02.client/02.text-formatting/Colorname.jpg)
+  <p align="center"><img src="https://doc.maniaplanet.com/user/pages/02.client/02.text-formatting/Colorname.jpg"></p>
   
 </details>
 
