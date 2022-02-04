@@ -54,8 +54,8 @@
   |---|---|
   | $w | Wide |
   | $n | Narrow |
-  | $o | Bold |
-  | $i | Italic |
+  | $o | **Bold** |
+  | $i | *Italic* |
   | $t | Uppercase |
   | $s | Drop shadow |
   | $g | Reset to default color |
@@ -84,7 +84,13 @@
   
 </details>
 
+<details>
+    <summary>Usefull Manialink</summary>
 
+`nickedit` \
+`symbols`
+    
+</details>
 
 
 
