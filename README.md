@@ -37,7 +37,7 @@
 
 ## Tips'n Tricks
 
-- Direct url to server : `maniaplanet://#join=SERVERLOGIN` or `maniaplanet://#join=droppie_lolmaps@TMStadium@nadeo`
+- Direct url to server : `maniaplanet://#join=SERVERLOGIN` <br> or `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
 
 ---
 
