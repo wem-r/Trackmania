@@ -47,7 +47,8 @@
 
 <details>
     <summary>Text formatting</summary>
-  
+  <br>
+    
   [Link to Doc](https://doc.maniaplanet.com/client/text-formatting)
   
   | Control character |  	Formatting| 
@@ -66,7 +67,8 @@
 
 <details>
     <summary>Colored text or nick</summary>
-  
+  <br>
+    
   [Link to doc](https://doc.maniaplanet.com/client/text-formatting)
   
   To use colors you need to put the `$` sign in front of your text followed by the 3-character hexadecimal code of the desired colour:
@@ -82,13 +84,18 @@
   
   <p align="center"><img src="https://doc.maniaplanet.com/user/pages/02.client/02.text-formatting/Colorname.jpg"></p>
   
+   see the manialinks for more customization
 </details>
 
 <details>
-    <summary>Usefull Manialink</summary>
-
-`nickedit` \
-`symbols`
+    <summary>Useful Manialink</summary>
+<br>
+    
+**`nickedit`** : to help you creatre customized nick directly in-game \
+    <p align="center"><img src="Server/img/nickedit.jpg"></p>
+    
+**`symbols`** : symbols you can use in the chat or in your nick \
+    <p align="center"><img src="Server/img/symbols.jpg"></p>
     
 </details>
 
