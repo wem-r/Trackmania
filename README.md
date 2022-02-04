@@ -43,7 +43,7 @@
 
 ## In-game
 
-- <details>
+<details>
     <summary>Text formatting</summary>
   
   [Link to Doc](https://doc.maniaplanet.com/client/text-formatting)
@@ -62,14 +62,14 @@
   
 </details>
 
-- <details>
+<details>
     <summary>Colored text or nick</summary>
   
   [Link to doc](https://doc.maniaplanet.com/client/text-formatting)
   
-  To use colors you need to pu in front of your text the `$` sign followed by a 3-character hexadecimal code of the desired colour:
+  To use colors you need to put the `$` sign in front of your text followed by the 3-character hexadecimal code of the desired colour:
   - Each 3 characters can have 16 values from 0 to f (`0123456789abcdef`).
-  - The first character is the red colour pallet, then green and blue.
+  - The first character is for the red colour pallet, 2nd is for green and 3rd for blue.
   
   Exemple: `$F00Wemy.$F80n$FA0i$FC0n$FD0j$FF0a` \
 will give : 
