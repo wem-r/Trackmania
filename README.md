@@ -30,7 +30,7 @@
 - [ManiaExchange](https://tm.mania-exchange.com/)
 - [Maniapark](http://www.maniapark.com)
 - [PyPlanet Documentation](https://pypla.net/en/latest/)
-- [Dedimania](http://dedimania.net/tm2stats/?do=stat)
+- [Dedimania](http://dedimania.net/tm2stats/?do=stat)  / [dedimania forum](http://dedimania.net/SITE/forum/)
 - [OpenPlanet](https://openplanet.nl/)
 
 ---
@@ -99,5 +99,10 @@
     
 </details>
 
+---
+
+## Guide
+
+- [[E-sports] A Guide to competitive TrackMania](https://steamcommunity.com/sharedfiles/filedetails/?id=251608621)
 
 
