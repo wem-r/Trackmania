@@ -42,9 +42,44 @@
 ---
 
 ## In-game
-- [Text formatting](https://doc.maniaplanet.com/client/text-formatting)
 
+- <details>
+    <summary>Text formatting</summary>
+  
+  [Link to Doc](https://doc.maniaplanet.com/client/text-formatting)
+  
+  | Control character |  	Formatting| 
+  |---|---|
+  | $w | Wide |
+  | $n | Narrow |
+  | $o | Bold |
+  | $i | Italic |
+  | $t | Uppercase |
+  | $s | Drop shadow |
+  | $g | Reset to default color |
+  | $z | Reset to default text style |
+  | $$ | Display a $ character |
+  
+</details>
 
+- <details>
+    <summary>Colored text or nick</summary>
+  
+  [Link to doc](https://doc.maniaplanet.com/client/text-formatting)
+  
+  To use colors you need to pu in front of your text the `$` sign followed by a 3-character hexadecimal code of the desired colour:
+  - Each 3 characters can have 16 values from 0 to f (`0123456789abcdef`).
+  - The first character is the red colour pallet, then green and blue.
+  
+  Exemple: `$F00Wemy.$F80n$FA0i$FC0n$FD0j$FF0a` \
+will give : 
+<span style="color:#ff0d11">W</span><span style="color:#ff373a">e</span><span style="color:#ff0307">m</span><span style="color:#ff1a1e">y</span><span style="color:#ff5300">.</span><span style="color:#ff5300">n</span><span style="color:#ff8a00">i</span><span style="color:#ffd000">n</span><span style="color:#ffe500">j</span><span style="color:#ffff51">a</span> (github doesn't show the colors)
+  
+  Here's a few exemple :
+  
+  ![](https://doc.maniaplanet.com/user/pages/02.client/02.text-formatting/Colorname.jpg)
+  
+</details>
 
 
 
