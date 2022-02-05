@@ -17,6 +17,7 @@
 
 ## Mapping
 - [Import you own 3D Model](Mapping/Import%20you%20own%203D%20Model.md)
+- [[Tutorial] How to embed objects ](https://tm.mania-exchange.com/threads/2684/tutorial-how-to-embed-objects?page=1)
 
 ---
 
@@ -40,6 +41,9 @@
 - Direct url to server : 
     - `maniaplanet://#join=SERVERLOGIN` or 
     - `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
+- Custom link :
+    - `$l[url]text`
+- 
 
 ---
 
@@ -62,7 +66,9 @@
   | $g | Reset to default color |
   | $z | Reset to default text style |
   | $$ | Display a $ character |
-  
+  | $l | External link |  
+  | $h | Manialink |
+    
 </details>
 
 <details>
@@ -96,6 +102,16 @@
     
 **`symbols`** : symbols you can use in the chat or in your nick \
     <p align="center"><img src="Server/img/symbols.jpg"></p>
+    
+</details>
+
+
+<details>
+    <summary>Custom Avatar (image or GIF)</summary>
+    <br>
+    
+    Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
+    
     
 </details>
 
