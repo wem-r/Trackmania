@@ -97,10 +97,10 @@
     <summary>Useful Manialink</summary>
 <br>
     
-**`nickedit`** : to help you creatre customized nick directly in-game \
+**`nickedit`** : help you create customized nick directly in-game \
     <p align="center"><img src="Server/img/nickedit.jpg"></p>
     
-**`symbols`** : symbols you can use in the chat or in your nick \
+**`symbols`** : symbols you can use in chat or in your nick \
     <p align="center"><img src="Server/img/symbols.jpg"></p>
     
 </details>
@@ -109,8 +109,8 @@
 <details>
     <summary>Custom Avatar (image or GIF)</summary>
     <br>
-    
-    Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
+
+Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
     
     
 </details>
