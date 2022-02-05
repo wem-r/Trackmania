@@ -38,12 +38,18 @@
 
 ## Tips'n Tricks
 
-- Direct url to server : 
-    - `maniaplanet://#join=SERVERLOGIN` or 
-    - `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
+- Maniaplanet Protocol ([Doc](https://doc.maniaplanet.com/client/maniaplanet-protocol))
+    - Direct url to server : 
+        - `maniaplanet://#join=SERVERLOGIN` or 
+        - `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
+    - Direct url to a specific campaign map :
+        - A08 for exemple : `maniaplanet://#campaign=#1,8@TMStadium@nadeo` \
+        The first number is the group and the second number is the map. \
+        `1` for the White series (A0x), `2` for Green (B0x), `3` for Blue C0x), `4` for Red (D0x) and `5` for Black (E0x)
+        - `$h[maniaplanet://#campaign=#1,8@TMStadium@nadeo]A08` 
 - Custom link :
     - `$l[url]text`
-- 
+
 
 ---
 
