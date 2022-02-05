@@ -111,7 +111,7 @@
     <br>
 
 Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
-    
+
     
 </details>
 
