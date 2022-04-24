@@ -34,6 +34,7 @@
 - [PyPlanet Documentation](https://pypla.net/en/latest/)
 - [Dedimania](http://dedimania.net/tm2stats/?do=stat)  / [dedimania forum](http://dedimania.net/SITE/forum/)
 - [OpenPlanet](https://openplanet.nl/)
+- https://donadigo.com/tminterface/
 
 ---
 
