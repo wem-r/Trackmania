@@ -101,11 +101,11 @@
   
   <p align="center"><img src="https://doc.maniaplanet.com/user/pages/02.client/02.text-formatting/Colorname.jpg"></p>
   
-   see the manialinks for more customization
+   see the manialinks right below for more customization
 </details>
 
 <details>
-    <summary>Useful Manialink</summary>
+    <summary>Useful Manialinks</summary>
 <br>
     
 **`nickedit`** : help you create customized nick directly in-game \
