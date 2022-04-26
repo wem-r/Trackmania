@@ -121,6 +121,8 @@
     <summary>Custom Avatar (image or GIF)</summary>
     <br>
 
+    
+WIP  
 Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
 
     
