@@ -133,5 +133,5 @@ Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
 ## Guide
 
 - [[E-sports] A Guide to competitive TrackMania](https://steamcommunity.com/sharedfiles/filedetails/?id=251608621)
-- [Le Neo drift et le Speed Drift dans Trackmania](https://www.mandatory.gg/trackmania/guides-trackmania/trackmania-neodrift-et-speed-drift/)
+- [FR] [Le Neo drift et le Speed Drift dans Trackmania](https://www.mandatory.gg/trackmania/guides-trackmania/trackmania-neodrift-et-speed-drift/)
 
