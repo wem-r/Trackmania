@@ -23,7 +23,8 @@
 ---
 
 ## Scripting
-- [ManiaScript](Scripting/ManiaScript.md)
+- [ManiaScript](Scripting/ManiaScript/ManiaScript.md)
+- ManiaExchange Downloader : Download every maps from mania-exchange
 
 ---
 
