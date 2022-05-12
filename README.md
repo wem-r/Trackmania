@@ -24,7 +24,7 @@
 
 ## Scripting
 - [ManiaScript](Scripting/ManiaScript/ManiaScript.md)
-- ManiaExchange Downloader : Download every maps from mania-exchange
+- [ManiaExchange Downloader](Scripting/TMX-Downloader/ManiaExchange_Downloader.md) : Download every maps from mania-exchange
 
 ---
 
