@@ -38,6 +38,10 @@
 - [Dedimania](http://dedimania.net/tm2stats/?do=stat)  / [dedimania forum](http://dedimania.net/SITE/forum/)
 - [OpenPlanet](https://openplanet.nl/)
 - https://donadigo.com/tminterface/
+- http://maniacalendar.com/
+- Full Maniaplanet setup (5GB, all environments): http://files.v04.maniaplanet.com/setups/Maniaplanet_SetupFull.zip
+- https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/ ([archive](https://web.archive.org/web/20220917095755/https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/)
+- 
 
 ---
 
