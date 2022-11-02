@@ -9,6 +9,11 @@
 - https://github.com/Vincent-HD/Trackmania2020-dedicated-docker
 - Controller
     - https://github.com/Chris92de/AdminServ
+- change the start timer to 1s countdown:  
+Go to the Server directory and edit the file:  
+`serverdir>/GameData/Scripts/Libs/Nadeo/Trackmania/TM3.Script.txt`  
+Then change the `#Const C_SpawnDuration`value from `3000` to `500`  
+reboot the server and... that's it
 
 ---
 
