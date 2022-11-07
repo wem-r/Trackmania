@@ -1,7 +1,7 @@
 # Trackmania How to's
 
-> Everything I do here is for Trackmania² Stadium, but it's pretty much the same for every Trackmania.
-> This is a on-going WIP
+> Everything I do here is for Trackmania² Stadium, but it's pretty much the same for every Trackmania.  
+> This is an on-going WIP
 
 <br> 
 
