@@ -1,7 +1,8 @@
 # Trackmania How to's
 
-This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what else that I use or need.
->This is an on-going WIP, Everything in here is for Trackmania² Stadium (maniaplanet), but it's pretty much the same for every Trackmania.  
+>This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what else that I use or need regularly.  
+>This is an on-going WIP.  
+>Everything in here is for Trackmania² Stadium (maniaplanet4), but it's pretty much the same for every Trackmania.  
 
 <br> 
 
@@ -15,19 +16,22 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 >**Sever Controller**
 >- https://github.com/Chris92de/AdminServ
 
->**change the start timer countdown to 1s**
+<br>
+
+>**Changing the start timer countdown to 1s**
 >
 >Go to the Server directory and edit the file:  
 >```
 ><serverdir>/GameData/Scripts/Libs/Nadeo/Trackmania/TM3.Script.txt
 >```  
->Then change the `#Const C_SpawnDuration` value from `3000` to `500`  
+>Look for `#Const C_SpawnDuration`  
+>Then change the value from `3000` to `500`  
 >
 >reboot the server and... that's it
 
 <br>
 
->**Server Ladder change** \
+>**Changing the server Ladder** \
 > - Rules : https://forum.maniaplanet.com/viewtopic.php?f=459&t=15804 \
 > - How-to : https://forum.maniaplanet.com/viewtopic.php?f=261&t=43622&p=295332#p295335
 >
@@ -63,6 +67,7 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 | RPG | https://maniaplanet.com/ingame/public/titles/download/RPG@tmrpg.Title.Pack.gbx |
 | ESL_Comp | https://maniaplanet.com/ingame/public/titles/download/esl_comp@lt_forever.Title.Pack.gbx
 
+<br>
 
 ---
 
@@ -70,11 +75,15 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 - [Make you own 2D Skin](Skin/Make%20you%20own%202D%20Skin.md)
 - [Make you own 3D Model](Skin/Make%20you%20own%203D%20Model.md)
 
+<br>
+
 ---
 
 ## Mapping
 - [Import you own 3D Model](Mapping/Import%20you%20own%203D%20Model.md)
 - [[Tutorial] How to embed objects ](https://tm.mania-exchange.com/threads/2684/tutorial-how-to-embed-objects?page=1)
+
+<br>
 
 ---
 
@@ -94,7 +103,7 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 - https://donadigo.com/tminterface/
 - http://maniacalendar.com/
 - Full Maniaplanet setup (5GB, all environments): http://files.v04.maniaplanet.com/setups/Maniaplanet_SetupFull.zip
-- https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/ ([archive](https://web.archive.org/web/20220917095755/https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/)
+- https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/ ([archive](https://web.archive.org/web/20220917095755/https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/))
 - 
 
 <br>
@@ -109,12 +118,16 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 
 | Description | URL/Command |
 |---|---|
-| **Direct url to a server** | `maniaplanet://#join=SERVERLOGIN` <br> or <br> `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`| 
-| **Direct url to a specific campaign map** <br><br>This is an exemple for A08.<br>The first number is the group and the second number is the map.<br>`1` for the White series (*A0x*), `2` for Green (*B0x*), `3` for Blue *C0x*), `4` for Red (*D0x*) and `5` for Black (*E0x*) | `maniaplanet://#campaign=#1,8@TMStadium@nadeo` | 
-| **Clickable external link in chat** <br> put `$l` in front of the link. | `$lhttps://exemple.com` |
+| **Direct URL to a server** | `maniaplanet://#join=SERVERLOGIN` <br> or <br> `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`| 
+| **Direct URL to a specific campaign map** <br><br>This is an exemple for A08.<br>The first number is the group and the second number is the map.<br>`1` for the White series (*A0x*), `2` for Green (*B0x*), `3` for Blue *C0x*), `4` for Red (*D0x*) and `5` for Black (*E0x*) | `maniaplanet://#campaign=#1,8@TMStadium@nadeo` | 
+| **Clickable external link** <br> put `$l` in front of the link. | `$lhttps://exemple.com` |
 | **Clickable custom external link** | `$L[url]text` |
-| **Clickable internal link in chat** <br> put `$h` in front.  | `$hmaniaplanet://#campaign=#1,8@TMStadium@nadeo` |
+| **Clickable internal link** <br> put `$h` in front.  | `$hmaniaplanet://#campaign=#1,8@TMStadium@nadeo` |
 | You can Even mix them <br> **Custom internal link to a specific map** | `$h[maniaplanet://#campaign=#1,8@TMStadium@nadeo]A08` |
+
+
+<br>
+
 ---
 
 ## In-game
@@ -141,6 +154,8 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
     
 </details>
 
+<br>
+
 <details>
     <summary>Colored text or nick</summary>
   <br>
@@ -163,6 +178,8 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
    see the manialinks right below for more customization
 </details>
 
+<br>
+
 <details>
     <summary>Useful Manialinks</summary>
 <br>
@@ -176,6 +193,8 @@ This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what
 </details>
 
 
+<br>
+
 <details>
     <summary>Custom Avatar (image or GIF)</summary>
     <br>
@@ -186,6 +205,8 @@ Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
 
     
 </details>
+
+<br>
 
 ---
 
