@@ -1,20 +1,31 @@
 # Trackmania How to's
 
-> Everything I do here is for Trackmania² Stadium (maniaplanet), but it's pretty much the same for every Trackmania.  
-> This is an on-going WIP
+This is just a bunch of Resources, Links, Tips&Tricks, Tools, Guide and idk what else that I use or need.
+>This is an on-going WIP, Everything in here is for Trackmania² Stadium (maniaplanet), but it's pretty much the same for every Trackmania.  
 
 <br> 
 
-## Server :
+---
+
+## Server
+
 - [TM² Dedicated Server on Debian 9 + pyplanet or uaseco](Server/Trackmania²-Dedicated-Server.md)
 - https://github.com/Vincent-HD/Trackmania2020-dedicated-docker
-- Controller
-    - https://github.com/Chris92de/AdminServ
-- change the start timer to 1s countdown:  
-Go to the Server directory and edit the file:  
-`serverdir>/GameData/Scripts/Libs/Nadeo/Trackmania/TM3.Script.txt`  
-Then change the `#Const C_SpawnDuration`value from `3000` to `500`  
-reboot the server and... that's it
+
+>**Sever Controller**
+>- https://github.com/Chris92de/AdminServ
+
+>**change the start timer countdown to 1s**
+>
+>Go to the Server directory and edit the file:  
+>```
+><serverdir>/GameData/Scripts/Libs/Nadeo/Trackmania/TM3.Script.txt
+>```  
+>Then change the `#Const C_SpawnDuration` value from `3000` to `500`  
+>
+>reboot the server and... that's it
+
+<br>
 
 >**Server Ladder change** \
 > - Rules : https://forum.maniaplanet.com/viewtopic.php?f=459&t=15804 \
@@ -30,12 +41,14 @@ reboot the server and... that's it
 ><ladder_serverlimit_max>70000</ladder_serverlimit_max>
 >```
 
+<br>
+
 ---
 
 ## Title Packs
 
-https://maniaplanet.com/ingame/public/titles  
-https://prod.live.maniaplanet.com/ingame/public/titles
+- https://maniaplanet.com/ingame/public/titles  
+- https://prod.live.maniaplanet.com/ingame/public/titles
 
 
 | Title | Download Link |
@@ -84,26 +97,24 @@ https://prod.live.maniaplanet.com/ingame/public/titles
 - https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/ ([archive](https://web.archive.org/web/20220917095755/https://old.reddit.com/r/TrackMania/comments/gukgh5/useful_links_to_getting_started_in_trackmania_and/)
 - 
 
+<br>
+
 ---
 
 ## Tips'n Tricks
 
-- Maniaplanet Protocol ([Doc](https://doc.maniaplanet.com/client/maniaplanet-protocol))
-    - Direct url to server : 
-        - `maniaplanet://#join=SERVERLOGIN` or 
-        - `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`
-    - Direct url to a specific campaign map :
-        - A08 for exemple : `maniaplanet://#campaign=#1,8@TMStadium@nadeo` \
-        The first number is the group and the second number is the map. \
-        `1` for the White series (A0x), `2` for Green (B0x), `3` for Blue C0x), `4` for Red (D0x) and `5` for Black (E0x)
-        - `$h[maniaplanet://#campaign=#1,8@TMStadium@nadeo]A08` 
-- Clickable external link in chat : put `$L`in front of the link.
-    - Ex: `$Lhttps://exemple.com`
-- Clickable internal link in chat : put `$h`in front.
-    - Ex: `$hmaniaplanet://#campaign=#1,8@TMStadium@nadeo`
-- Clickable custom external link : `$L[url]text`
 
+**Maniaplanet Protocol**  
+[Documentation](https://doc.maniaplanet.com/client/maniaplanet-protocol)
 
+| Description | URL/Command |
+|---|---|
+| **Direct url to a server** | `maniaplanet://#join=SERVERLOGIN` <br> or <br> `maniaplanet://#join=SERVERLOGIN@TMStadium@nadeo`| 
+| **Direct url to a specific campaign map** <br><br>This is an exemple for A08.<br>The first number is the group and the second number is the map.<br>`1` for the White series (*A0x*), `2` for Green (*B0x*), `3` for Blue *C0x*), `4` for Red (*D0x*) and `5` for Black (*E0x*) | `maniaplanet://#campaign=#1,8@TMStadium@nadeo` | 
+| **Clickable external link in chat** <br> put `$l` in front of the link. | `$lhttps://exemple.com` |
+| **Clickable custom external link** | `$L[url]text` |
+| **Clickable internal link in chat** <br> put `$h` in front.  | `$hmaniaplanet://#campaign=#1,8@TMStadium@nadeo` |
+| You can Even mix them <br> **Custom internal link to a specific map** | `$h[maniaplanet://#campaign=#1,8@TMStadium@nadeo]A08` |
 ---
 
 ## In-game
