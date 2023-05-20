@@ -1,6 +1,6 @@
 # Trackmania How to's
 
-> Everything I do here is for Trackmania² Stadium, but it's pretty much the same for every Trackmania.  
+> Everything I do here is for Trackmania² Stadium (maniaplanet), but it's pretty much the same for every Trackmania.  
 > This is an on-going WIP
 
 <br> 
@@ -15,6 +15,41 @@ Go to the Server directory and edit the file:
 `serverdir>/GameData/Scripts/Libs/Nadeo/Trackmania/TM3.Script.txt`  
 Then change the `#Const C_SpawnDuration`value from `3000` to `500`  
 reboot the server and... that's it
+
+>**Server Ladder change** \
+> - Rules : https://forum.maniaplanet.com/viewtopic.php?f=459&t=15804 \
+> - How-to : https://forum.maniaplanet.com/viewtopic.php?f=261&t=43622&p=295332#p295335
+>
+> Go to : https://www.maniaplanet.com/account/dedicated-servers/ladder-servers \
+> and register your server
+>
+> Then change or add the following to you `dedicated_cfg.txt`
+>```xml
+><ladder_mode>forced</ladder_mode>
+><ladder_serverlimit_min>0</ladder_serverlimit_min>
+><ladder_serverlimit_max>70000</ladder_serverlimit_max>
+>```
+
+---
+
+## Title Pack
+
+https://maniaplanet.com/ingame/public/titles  
+https://prod.live.maniaplanet.com/ingame/public/titles
+
+
+| Title | Download Link |
+|---|---|
+| TMStadium | https://maniaplanet.com/ingame/public/titles/download/TMStadium@nadeo.Title.Pack.gbx |
+| TMCanyon | https://maniaplanet.com/ingame/public/titles/download/TMCanyon@nadeo.Title.Pack.gbx|
+| TMValley | https://maniaplanet.com/ingame/public/titles/download/TMValley@nadeo.Title.Pack.gbx |
+| TMLagoon | https://maniaplanet.com/ingame/public/titles/download/TMLagoon@nadeo.Title.Pack.gbx|
+|Pursuit | https://maniaplanet.com/ingame/public/titles/download/Pursuit@domino54.Title.Pack.gbx |
+| Nadeo_Envimix | https://maniaplanet.com/ingame/public/titles/download/Nadeo_Envimix@bigbang1112.Title.Pack.gbx |
+| Dirt_World_TM2 | https://maniaplanet.com/ingame/public/titles/download/Dirt_World_TM2@bernatf.Title.Pack.gbx |
+
+
+
 
 ---
 
