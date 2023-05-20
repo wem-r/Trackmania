@@ -32,7 +32,7 @@ reboot the server and... that's it
 
 ---
 
-## Title Pack
+## Title Packs
 
 https://maniaplanet.com/ingame/public/titles  
 https://prod.live.maniaplanet.com/ingame/public/titles
@@ -44,11 +44,11 @@ https://prod.live.maniaplanet.com/ingame/public/titles
 | TMCanyon | https://maniaplanet.com/ingame/public/titles/download/TMCanyon@nadeo.Title.Pack.gbx|
 | TMValley | https://maniaplanet.com/ingame/public/titles/download/TMValley@nadeo.Title.Pack.gbx |
 | TMLagoon | https://maniaplanet.com/ingame/public/titles/download/TMLagoon@nadeo.Title.Pack.gbx|
-|Pursuit | https://maniaplanet.com/ingame/public/titles/download/Pursuit@domino54.Title.Pack.gbx |
+| Pursuit | https://maniaplanet.com/ingame/public/titles/download/Pursuit@domino54.Title.Pack.gbx |
 | Nadeo_Envimix | https://maniaplanet.com/ingame/public/titles/download/Nadeo_Envimix@bigbang1112.Title.Pack.gbx |
 | Dirt_World_TM2 | https://maniaplanet.com/ingame/public/titles/download/Dirt_World_TM2@bernatf.Title.Pack.gbx |
-
-
+| RPG | https://maniaplanet.com/ingame/public/titles/download/RPG@tmrpg.Title.Pack.gbx |
+| ESL_Comp | https://maniaplanet.com/ingame/public/titles/download/esl_comp@lt_forever.Title.Pack.gbx
 
 
 ---
