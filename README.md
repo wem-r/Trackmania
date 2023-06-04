@@ -79,6 +79,14 @@
 
 ---
 
+## Avatar
+
+- [Custom avatar](Avatar/Avatar.md)
+
+<br>
+
+---
+
 ## Mapping
 - [Import you own 3D Model](Mapping/Import%20you%20own%203D%20Model.md)
 - [[Tutorial] How to embed objects ](https://tm.mania-exchange.com/threads/2684/tutorial-how-to-embed-objects?page=1)
@@ -192,19 +200,6 @@
     
 </details>
 
-
-<br>
-
-<details>
-    <summary>Custom Avatar (image or GIF)</summary>
-    <br>
-
-    
-WIP  
-Location (on Windows) : `%USERPROFILE%\Documents\Maniaplanet\Skins\Avatars`
-
-    
-</details>
 
 <br>
 
